@@ -1,2 +1,2 @@
 # C-
-This repository will hold codes soltuion developed in C#
+This repository will hold codes solution developed in C#
